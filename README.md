@@ -18,9 +18,11 @@ Welcome to the Live Machine Learning Classes repository! In this series, I've co
    - [![Class 5: Time Series Analysis & Forecasting](https://img.youtube.com/vi/lrt7AfAKDtE/0.jpg)](https://www.youtube.com/live/lrt7AfAKDtE)
 
 **Class Files**
+
 All the materials used in the classes, including code samples, datasets, and additional resources, can be found in the corresponding folders within this repository.
 Feel free to explore the code, experiment with the datasets, and enhance your understanding of machine learning concepts through these comprehensive resources.
 Happy learning! If you have any questions or need further assistance, don't hesitate to reach out.
 
 **Best regards,**
+
 Satyajit Pattnaik
