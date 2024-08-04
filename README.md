@@ -1,6 +1,7 @@
 Welcome to the Live Machine Learning Classes repository! In this series, I've covered everything from the basics of machine learning to advanced topics such as classification, regression, clustering, feature scaling, engineering, hyperparameter optimization, and deployment. Each class is available for viewing on YouTube, and the corresponding class files are provided in this repository for your convenience.
 
 **Class Schedule**
+
 🔴 Class 1: Introduction to Machine Learning & Few Classification Algos
    - [![Class 1: Introduction to Machine Learning](https://img.youtube.com/vi/ocse1X_rtSI/0.jpg)](https://www.youtube.com/watch?v=ocse1X_rtSI)
 
