@@ -2,7 +2,7 @@ Welcome to the Live Machine Learning Classes repository! In this series, I've co
 
 🔴 Entire Playlist is here
    - [![Playlist - Machine Learning End to End](https://raw.githubusercontent.com/pik1989/MLClasses/main/ML%20END%20TO%20END.png)](https://www.youtube.com/playlist?list=PLymcv5WXEpKhevhrm3Jz8WQjn0JzG-O-7)
-   - 
+     
 **Class Schedule**
 
 🔴 Class 1: Introduction to Machine Learning & Few Classification Algos
@@ -19,6 +19,8 @@ Welcome to the Live Machine Learning Classes repository! In this series, I've co
 
 🔴 Class 5: Time Series Analysis & Forecasting
    - [![Class 5: Time Series Analysis & Forecasting](https://img.youtube.com/vi/lrt7AfAKDtE/0.jpg)](https://www.youtube.com/live/lrt7AfAKDtE)
+
+**Apart from these classes, topcics like Feature Engineering can be found in the playlist**
 
 **Class Files**
 
